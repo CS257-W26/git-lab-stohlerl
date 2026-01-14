@@ -4,3 +4,4 @@ Burgers
 Pepperoni Pizza
 Steak
 Cheesesteak
+Bacon Pancake
